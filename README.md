@@ -119,4 +119,4 @@ If you have little experience with python and scientific programming, I suggest 
 
 - Computational Physics 2: https://github.com/wbandabarragan/computational-physics-2-arxiv
 
-- Kong, Qingkai; Siauw, Timmy; Bayen, Alexandre, Python Programming And Numerical Methods: A Guide For Engineers And Scientists, 1st Edition, 2020 (https://pythonnumericalmethods.be rkeley.edu/notebooks/Index.html).
+- Kong, Qingkai; Siauw, Timmy; Bayen, Alexandre, Python Programming And Numerical Methods: A Guide For Engineers And Scientists, 1st Edition, 2020 (https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html).
