@@ -7,7 +7,9 @@ This is collection of lecture notes and programming exercises carried out as par
 
 Wladimir E. Banda-Barragán
 
-Yachay Tech University
+## School and University:
+Escuela de Ciencias Físicas y Nanotecnología, Universidad Yachay Tech
+https://yachaytech.edu.ec/en/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 ## Description of the course:
 This graduate-level course provides a comprehensive exploration of nonlinear dynamics and chaos with a special focus on their application to fluid mechanics. The first part of the course presents a strong foundation in the computational and mathematical tools necessary to study complex systems, including Python programming and the analysis of continuous and discrete dynamical systems. It then delves into the geometric signatures of chaos by examining strange attractors, fractals and fractal dimensions. Building on this theoretical framework, the second half of the course applies these concepts to the highly nonlinear field of fluid dynamics, starting with the Navier-Stokes equations and fundamental fluid phenomena like vorticity and boundary layers. The course then dives into turbulence, a classic example of deterministic chaos, where students will explore key theories like the energy cascade and discover how fractals are used to describe the intricate structures and chaotic mixing within turbulent flows. This structure is designed to equip students with both the theoretical knowledge and the practical skills to analyse and understand complex, nonlinear phenomena in physics and engineering.
