@@ -4,4 +4,4 @@ This is collection of lecture notes and programming exercises carried out as par
 
 
 ## Lecturer:
-Wladimir E. Banda Barragán
+Wladimir E. Banda-Barragán
