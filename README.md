@@ -20,3 +20,8 @@ Wladimir E. Banda-Barragán
 - Strange attractors.
   
 - Special topics.
+
+
+## Learning Outcomes:
+
+The student will learn techniques and concepts of nonlinear dynamics, which are widely applicable in diverse contexts and areas of physics, with interdisciplinary applications.
