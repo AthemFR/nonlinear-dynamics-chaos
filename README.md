@@ -85,6 +85,8 @@ The student will learn techniques and concepts of nonlinear dynamics, which are 
 
 - 25%: Final Exam (Paper & Presentation)
 
+The passing grade for this MSc-level course is: 7.5/10.0. Please do your best in every assignment!
+
 ## On deadlines:
 
 The assignment deadlines will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
@@ -105,7 +107,7 @@ If you have questions on the material, my office hours are:
 
 ## Class attendance:
 
-- You are free to attend or not attend classes. I suggest you should attend all classes.
+- You are free to attend or not attend classes. I, however, suggest you should attend all classes.
 
 - All classes will be recorded and posted on Moodle.
 
