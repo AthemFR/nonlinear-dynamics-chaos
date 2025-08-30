@@ -5,3 +5,18 @@ This is collection of lecture notes and programming exercises carried out as par
 
 ## Lecturer:
 Wladimir E. Banda-Barragán
+
+
+## Topics:
+
+- Dynamical systems.
+  
+- Introduction to chaos.
+  
+- Chaotic systems.
+  
+- Transitions to chaos.
+  
+- Strange attractors.
+  
+- Special topics.
