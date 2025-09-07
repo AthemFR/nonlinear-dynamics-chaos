@@ -1,0 +1,2 @@
+# Sample Data for the NLD Course
+# File written by W.E.B.B.
