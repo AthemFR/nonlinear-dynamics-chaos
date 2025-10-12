@@ -91,6 +91,14 @@ The passing grade for this MSc-level course is: 7.5/10.0. Please do your best in
 
 The assignment deadlines will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
 
+## On academic integrity:
+
+- Students are responsible for ensuring the academic integrity of their submitted assignments and exams.
+
+- Cheating, plagiarising, and copying code or solutions from the Internet, from AI platforms (like chatGPT, Deepseek, Gemini) are all breaches of academic integrity.
+
+- Academic misconduct will be penalised according to the University’s regulations. Any assignments that infringe academic integrity (even partially) will receive zero marks.
+
 ## Late assignment policy
 
 - Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
