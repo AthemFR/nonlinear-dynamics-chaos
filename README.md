@@ -21,7 +21,7 @@ The student will learn techniques and concepts of nonlinear dynamics, which are 
 
 ## Topics:
 
-### Unit 1: Computational Nonlinear Dynamics
+### Unit 1: Computational Nonlinear Dynamics and 1D flows
 
 - Python and computational methods 
   
@@ -29,40 +29,39 @@ The student will learn techniques and concepts of nonlinear dynamics, which are 
 
 - Continuous and discrete dynamical systems
 
-- Bifurcations and transitions to chaos
+- Bifurcations in 1D
+
+### Unit 2: Two-Dimensional Flows
+  
+- Phase planes
+
+- Conservative and reversible systems
+
+- Limit cycles
+
+- Bifurcations in 2D
 
 
-### Unit 2: Fractals and Complex Systems
+### Unit 3: Nonlinear Systems in 3D
+
+- Lorenz Equations
   
-- Strange attractors
-  
-- Introduction to complex systems
+- Emergence of Chaos
 
 - Fractal geometry and dimensions
 
-- Fractal dimensions and multifractals
-
-
-### Unit 3: Nonlinear Fluid Dynamics
-
-- Navier-Stokes equations
-  
-- Laminar and inviscid flows
-
-- Vorticity and circulation
-
-- Boundary layers
+- Introduction to complex systems
 
 
 ### Unit 4: Chaos and Turbulence in Fluids
 
-- Onset of turbulence 
+- Navier-Stokes equations: Laminar and inviscid flows
+
+- Onset of turbulence: Vorticity and circulation
 
 - Energy cascade and Kolmogorov's theory
   
-- Fractality in turbulence
-
-- Chaos and mixing
+- Fractality in turbulence: chaos and mixing
 
 
 ## Bibliography:
@@ -81,9 +80,9 @@ The student will learn techniques and concepts of nonlinear dynamics, which are 
 
 - 25%: Laboratory (Software)
 
-- 25%: Midterm Exam (Paper & Presentation)
+- 25%: Midterm Exam (Report + Presentation)
 
-- 25%: Final Exam (Paper & Presentation)
+- 25%: Final Exam (Paper + Presentation)
 
 The passing grade for this MSc-level course is: 7.5/10.0. Please do your best in every assignment!
 
