@@ -53,26 +53,12 @@ The student will learn techniques and concepts of nonlinear dynamics, which are 
 - Introduction to complex systems
 
 
-### Unit 4: Chaos and Turbulence in Fluids
-
-- Navier-Stokes equations: Laminar and inviscid flows
-
-- Onset of turbulence: Vorticity and circulation
-
-- Energy cascade and Kolmogorov's theory
-  
-- Fractality in turbulence: chaos and mixing
-
-
 ## Bibliography:
 
 - Strogatz, S. H. (2018). Nonlinear dynamics and chaos: With applications to physics, biology, chemistry, and engineering. Westview Press.
 
 - Alligood, K. T., Sauer, T. D., & Yorke, J. A. (1996). Chaos: An introduction to dynamical systems. Springer.
 
-- Davidson, P. A. (2015). Turbulence: An introduction for scientists and engineers. Oxford University Press.
-
-- Munson, B. R., Young, D. F., & Okiishi, T. H. (2013). Fundamentals of fluid mechanics. John Wiley & Sons.
 
 ## Evaluation:
 
